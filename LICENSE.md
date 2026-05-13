@@ -1,4 +1,4 @@
-# 
+# Enhance your Polymarket trading with automatic bot for Polymarket - trade-sniping and slippage-control, the #1 bot. Includes trade-sniping and slippage-control for a smoother and
 
 
 
